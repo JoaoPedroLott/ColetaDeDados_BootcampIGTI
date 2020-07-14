@@ -1,1 +1,0 @@
-﻿Para procurar os dados dentro do computador, use file.choose().
